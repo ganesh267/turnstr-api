@@ -1,0 +1,4 @@
+class StoryDetailsSerializer < StorySerializer
+
+
+end	
